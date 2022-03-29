@@ -21,7 +21,7 @@ public class Concatenation {
 
         check = sen1.equals(sen2);
         System.out.println("Comparing: " + check);
-        if (check == true){
+        if (check){
             System.out.println("The strings Match!");
         }
         else {
